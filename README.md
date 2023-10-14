@@ -1,10 +1,12 @@
-# Zero n Ones - Qwik City App [Production Ready] ⚡️
+# Zero n Ones - Qwik City App [Non-Production Ready] ⚡️
 
 Created by [Ibrahim Zaman](mailto:AbrahimZaman3@gmail.com)
 
 - [Ibrahim Zaman's links](https://tiles.bio/abrahimzaman360)
 - [Qwik Docs](https://qwik.builder.io/)
 
+Note:
+This app is not production ready yet due to no authentication with Email and Password.
 ---
 
 ## Project Structure
