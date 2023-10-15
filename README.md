@@ -8,6 +8,12 @@ Created by [Ibrahim Zaman](mailto:AbrahimZaman3@gmail.com)
 ### Note: This app is not production ready yet due to no authentication with Email and Password.
 ---
 
+## What to do next (TODO List):
+- Adding Email and Password Support.
+- Adding PrismaDB and Saving Authentication Details through Prisma in DB.
+- Adding UI Components and Animations.
+- Simple Landing Page.
+
 ## Project Structure
 
 Inside your project, you'll see the following directory structure:
