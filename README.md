@@ -10,7 +10,7 @@ Created by [Ibrahim Zaman](mailto:AbrahimZaman3@gmail.com)
 
 ## What to do next (TODO List):
 - [ ] Adding Email and Password Support.
-- [ ] Adding PrismaDB and Saving Authentication Details through Prisma in DB.
+- [ ] Adding PrismaORM and Saving Authentication Details through PrismaORM in DB.
 - [ ] Adding UI Components and Animations.
 - [ ] Simple Landing Page.
 
@@ -26,7 +26,7 @@ Inside your project, you'll see the following directory structure:
     │   └── ...
     └── routes/
     │   └── Login
-    │   └── Profile 
+    │   └── Profile
         └── Home (index.tsx)
 ```
 
